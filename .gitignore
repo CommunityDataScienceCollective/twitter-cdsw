@@ -3,6 +3,7 @@
 MY_DATA.tsv
 twitter_authentication.py
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
